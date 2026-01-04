@@ -1,0 +1,1 @@
+export const host='https://exp-backend-01mq.onrender.com/expense'
